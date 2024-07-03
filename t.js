@@ -5,10 +5,11 @@
 // @description  try to take over the world!
 // @author       You
 // @match        *://*/*
-// @grant        none
+// @grant        GM_xmlhttpRequest
 // @connect      raw.githubusercontent.com
 
 // @run-at       document-start
+// @license      MIT
 // ==/UserScript==
 
 (function() {

@@ -6,6 +6,9 @@
 // @author       You
 // @match        *://*/*
 // @grant        none
+// @connect      raw.githubusercontent.com
+
+// @run-at       document-start
 // ==/UserScript==
 
 (function() {
